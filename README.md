@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará uma visão geral do
 
 👨‍🎓 Me Chamo João Davi Dantas Lima, estudo Ciencia e Tecnologia pela UFBA!
 
-🤝 Trainee de Dev -  TITAN - Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/TITAN-FFD400.svg?style=for-the-badge&logo=TITAN&logoColor=black" />](https://titanci.com.br)
+🤝 Trainee de Dev -  TITAN - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
 
 
 Sobre Mim
