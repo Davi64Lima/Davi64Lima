@@ -17,7 +17,7 @@ Ao longo dos anos, tenho trabalhado em diversos projetos desafiadores, adquirind
 <div>
 <a href="https://github.com/Davi64Lima">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi64Lima&layout=compact&langs_count=7&theme=dracula"/>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Davi64Lima=anuraghazra&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?Davi64Lima=anuraghazra&show_icons=true&theme=dracula"/>
 </div>
   
 ### Ferramentas e Tecnologias
