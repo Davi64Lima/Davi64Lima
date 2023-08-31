@@ -50,8 +50,10 @@ Ao longo dos anos, tenho trabalhado em diversos projetos desafiadores, adquirind
 <a href = "mailto:novodavilima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/davi-lima-6562641b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<div>
+  <img src="https://github.com/seu-usuário-aqui/davi64lima/blob/output/github-contribution-grid-snake.svg">
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <!--
 **Davi64Lima/Davi64Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
