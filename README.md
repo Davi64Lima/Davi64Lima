@@ -51,7 +51,7 @@ Ao longo dos anos, tenho trabalhado em diversos projetos desafiadores, adquirind
 <a href="https://www.linkedin.com/in/davi-lima-6562641b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <div>
-  <img  height="180em" src="https://github.com/davi64lima/davi64lima/blob/output/github-contribution-grid-snake.svg">
+<img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=Davi64Lima&color=green" alt="Davi64Lima" /> <br>
 
 </div>
 
