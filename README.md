@@ -16,8 +16,8 @@ Ao longo dos anos, tenho trabalhado em diversos projetos desafiadores, adquirind
 
 <div>
 <a href="https://github.com/Davi64Lima">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi64Lima&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi64Lima&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi64Lima&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi64Lima&show_icons=true&theme=dracula"/>
 </div>
   
 ### Ferramentas e Tecnologias
