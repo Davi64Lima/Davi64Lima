@@ -24,8 +24,8 @@ Ao longo dos anos, tenho trabalhado em diversos projetos desafiadores, adquirind
   
 ## LINGUAGENS 
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />](https://github.com/Davi64Lima)
-[<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />](https://github.com/Davi64Lima)
-[<img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white" />](https://github.com/Davi64Lima)
+[<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />](https://github.com/Davi64Lima)
+
 
 
 ## FRONT-END 
