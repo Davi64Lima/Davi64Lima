@@ -1,74 +1,50 @@
+# 👨‍💻 João Davi Dantas Lima
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+Olá! Sou o Davi — um desenvolvedor backend apaixonado por resolver problemas com código limpo, APIs performáticas e soluções escaláveis. Atualmente trabalho com Node.js e TypeScript, criando e mantendo aplicações robustas em ambientes de produção.
 
-### Hi there 👋
-Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará uma visão geral dos meus projetos, habilidades e experiência como desenvolvedor fullstack, com foco em React e Java.
+---
 
-👨‍🎓 Me Chamo João Davi Dantas Lima, estudo Ciencia e Tecnologia pela UFBA!
+## 🚀 Sobre mim
 
-🤝 Trainee de Dev -  TITAN - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
+🎓 **Graduando em Ciência e Tecnologia** pela Universidade Federal da Bahia (UFBA)  
+💼 Atuando como **Desenvolvedor de Software** nas empresas **Janoo** 
+📌 Localizado em Salvador - BA, Brasil  
+📬 Contato: [devdavi64lima@gmail.com](mailto:devdavi64lima@gmail.com)
 
+---
 
-Sobre Mim
-Sou um(a) desenvolvedor(a) fullstack com ampla experiência em construir aplicações web utilizando React e Java. Tenho paixão por criar soluções eficientes e escaláveis, combinando habilidades tanto no frontend quanto no backend.
+## 🛠️ Tecnologias que uso no dia a dia
 
-Ao longo dos anos, tenho trabalhado em diversos projetos desafiadores, adquirindo conhecimentos sólidos em tecnologias e conceitos importantes. Tenho facilidade em aprender novas ferramentas e frameworks, além de estar sempre buscando me atualizar e acompanhar as últimas tendências da indústria.
+- **Linguagens:** TypeScript, Java, PHP
+- **Bancos de dados:** PostgreSQL, MySQL, SQLite, MongoDB, Redis
+- **ORMs:** Sequelize, Prisma, TypeORM
+- **Ferramentas:** Git, Docker
 
-<div>
-<a href="https://github.com/Davi64Lima">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi64Lima&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi64Lima&show_icons=true&theme=dracula"/>
-</div>
-  
-### Ferramentas e Tecnologias
-  
-## LINGUAGENS 
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />](https://github.com/Davi64Lima)
-[<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />](https://github.com/Davi64Lima)
+---
 
+## 🧪 Experiência com
 
+- Criação e manutenção de APIs REST seguras e bem documentadas
+- Testes unitários/integrados automatizados
+- Versionamento de código com Git semântico
+- Integração com bancos de dados relacionais e não-relacionais
+- Metodologias ágeis, liderança de squads e mentoria de desenvolvedores iniciantes
 
-## FRONT-END 
-[<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />](https://github.com/Davi64Lima)
-[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://github.com/Davi64Lima)
-[<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />](https://github.com/Davi64Lima)
+---
 
-## VERSIONAMENTO DE CÓDIGO 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/siquara) [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/Davi64Lima)
+## 📂 Projetos em destaque
 
+- **API de Controle de Medicamentos**: API REST com Node.js, TypeScript, PostgreSQL, Docker e testes automatizados.
+- **SGPE**: Sistema web para gerenciamento de processos com React.js e PHP.
+- **Viga RForce**: Aplicação desktop Java Swing para cálculo estrutural.
 
-## OUTRAS TECNOLOGIAS 
-[<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />](https://github.com/Davi64Lima)
-[<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />](https://github.com/Davi64Lima)
-[<img src="https://img.shields.io/badge/Autocad-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white" />](https://github.com/Davi64Lima)
+---
 
-  
-## Meus Contatos
+## 🌐 Onde me encontrar
 
-<div>
-<a href="https://instagram.com/Davi64Lima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:novodavilima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/davi-lima-6562641b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Davi64Lima-181717?style=for-the-badge&logo=github)](https://github.com/Davi64Lima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davi64lima-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davi64lima)
 
-## VIEWS
+---
 
-<div>
-<img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=Davi64Lima&color=green" alt="Davi64Lima" /> <br>
-
-</div>
-
-<!--
-**Davi64Lima/Davi64Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 *Sempre aprendendo, sempre evoluindo. Sinta-se à vontade para explorar meus repositórios!*
